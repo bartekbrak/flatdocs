@@ -29,6 +29,7 @@ Each file will receive a Google Analytics tracking ID so that I can monitor the
 usage.
 
 Feature and functionality set:
+
 [ ] - plain text format for terminal interaction
 [ ] - statistics overview: word count, byte length, versions covered,
       completeness of the effort
