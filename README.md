@@ -30,11 +30,11 @@ usage.
 
 Feature and functionality set:
 
-[ ] - plain text format for terminal interaction
-[ ] - statistics overview: word count, byte length, versions covered,
+- [ ] plain text format for terminal interaction
+- [ ] statistics overview: word count, byte length, versions covered,
       completeness of the effort
-[ ] - automated build and checking for being up to date.
-[ ] - cool but absolutley minimalist web front UI
+- [ ] automated build and checking for being up to date.
+- [ ] cool but absolutley minimalist web front UI
 
 Please share feedback, discuss and propose features. Do you have similar needs
 as I do?
